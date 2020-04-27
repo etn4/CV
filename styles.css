@@ -50,6 +50,10 @@ a:hover{
   color: #EAF6F6;
 }
 
+.profile{
+  object-fit: cover;
+}
+
 .top-container{
   background-color: #E4F9F5;
   position: relative;
