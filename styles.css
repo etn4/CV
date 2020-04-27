@@ -52,9 +52,9 @@ a:hover{
 
 .profile{
   width: auto;
-  max-width: 150px;
   height: auto;
-  max-height: 100px;
+  min-width: 100%;
+  min-height: 100%;
 }
 
 .top-container{
