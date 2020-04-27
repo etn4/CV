@@ -53,7 +53,7 @@ a:hover{
 .profile{
    width: 10%;
    max-height: 20px;
-   object-fit: contain;
+   /*object-fit: contain;*/
 }
 
 .top-container{
