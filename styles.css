@@ -51,8 +51,8 @@ a:hover{
 }
 
 .profile{
-  background-image: url(https://github.com/etn4/CV/blob/master/Images/Eric%20Nguyen_linkedin_profile.JPG);
-  background-size: 150px;
+  background-image: url(Images/Eric Nguyen_linkedin_profile.JPG);
+  background-size: cover;
   width: 300px;
   height: 300px;
   border: 2px solid;
@@ -67,12 +67,6 @@ a:hover{
 
 .middle-container{
   margin: 100px 0;
-  background-image: url(https://github.com/etn4/CV/blob/master/Images/Eric%20Nguyen_linkedin_profile.JPG);
-  background-size: 150px;
-  width: 300px;
-  height: 300px;
-  border: 2px solid;
-  color: #EAF6F6;
 }
 
 .bottom-container{
