@@ -50,10 +50,9 @@ a:hover{
   color: #EAF6F6;
 }
 
-.profile{
-   width: 10%;
-   max-height: 20px;
-   /*object-fit: contain;*/
+.img{
+  width: 100%;
+  height: auto;
 }
 
 .top-container{
