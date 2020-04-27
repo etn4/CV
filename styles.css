@@ -51,12 +51,9 @@ a:hover{
 }
 
 .profile{
-  background-image: url(Images/Eric Nguyen_linkedin_profile.JPG);
-  background-size: cover;
-  width: 300px;
-  height: 300px;
-  border: 2px solid;
-  color: #EAF6F6;
+  width: 10%;
+  height: 150px;
+  object-fit: contain;
 }
 
 .top-container{
