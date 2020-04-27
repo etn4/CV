@@ -51,7 +51,10 @@ a:hover{
 }
 
 .profile{
-  background-size: 300px 300px;
+  width: auto;
+  max-width: 150px;
+  height: auto;
+  max-height: 100px;
 }
 
 .top-container{
