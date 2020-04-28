@@ -50,6 +50,11 @@ a:hover{
   color: #EAF6F6;
 }
 
+.profile{
+  width: auto;
+  height: auto;
+}
+
 .top-container{
   background-color: #E4F9F5;
   position: relative;
